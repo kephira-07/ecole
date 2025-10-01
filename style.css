@@ -1,5 +1,4 @@
-    
-        /* Reset et variables */
+/* Reset et variables */
         * {
             margin: 0;
             padding: 0;
@@ -8,13 +7,13 @@
         }
 
         :root {
-            --primary: #1a5276;
-            --secondary: #3498db;
-            --accent: #e74c3c;
-            --light: #f8f9fa;
-            --dark: #2c3e50;
-            --success: #27ae60;
-            --warning: #f39c12;
+            --primary: #218c3a;      /* Vert principal */
+            --secondary: #43b86e;    /* Vert secondaire */
+            --accent: #b4e04c;       /* Vert accent (lime) */
+            --light: #f6fff7;        /* Vert très clair pour le fond */
+            --dark: #14532d;         /* Vert foncé */
+            --success: #27ae60;      /* Peut rester pour les succès */
+            --warning: #f39c12;      /* Orange pour les avertissements */
         }
 
         body {
